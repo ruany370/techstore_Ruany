@@ -1,3 +1,5 @@
+style.css
+100%
 /* =============================================================
    TECHSTORE - style.css
    Cada linha tem um comentário dizendo o que ela faz.
@@ -215,6 +217,9 @@ table:last-of-type img {
     padding: 6px 8px;                         /* links do menu mais compactos para caber na tela */
   }
 }
+Exibindo style.css…
+
+
 /* -------------------------------------------------------------
    PÁGINA DE CONTATO - FORMULÁRIO
    ------------------------------------------------------------- */
@@ -270,4 +275,3 @@ table:last-of-type img {
 .formulario button:hover {
   background-color: #c9336a;        /* rosa mais escuro ao passar o mouse */
 }
-
